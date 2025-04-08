@@ -1,0 +1,1 @@
+Police management system is based on the concept of managing records of officers and criminals of a particular area. The system will help the user to store the details of both officers and criminals in one place. The user can do various things inside the system such as add new record, modify, search etc![Uploading image.png…]()
